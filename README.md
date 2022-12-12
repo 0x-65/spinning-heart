@@ -1,4 +1,4 @@
 # spinning-heart
-a 3D spinning heart written in C
+a 3D spinning heart
 
 ![Screenshot](output.gif)
