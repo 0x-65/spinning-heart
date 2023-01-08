@@ -1,7 +1,6 @@
-# spinning-heart
 a 3D spinning heart
 
-# compiling & running the code
+# setup
 
 ```gcc main.c```
 ```./a.out```
