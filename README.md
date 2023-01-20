@@ -11,6 +11,5 @@ a 3D spinning heart
 1. make main.c
 2. ./main
 ```
-
 # output
 ![Screenshot](output.gif)
