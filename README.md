@@ -1,5 +1,3 @@
-a 3D spinning heart
-
 # setup
 
 ```
