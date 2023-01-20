@@ -1,14 +1,14 @@
-# setup
+## setup
 
-```
-#method 1
+```c
+//method 1
 1. gcc main.c
 2. ./a.out
 
-#method 2
+//method 2
 1. make main.c
 2. ./main
 ```
 
-# output
+## output
 ![Screenshot](output.gif)
