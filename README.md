@@ -3,7 +3,6 @@ a 3D spinning heart
 # setup
 
 ```
-
 #method 1
 1. gcc main.c
 2. ./a.out
