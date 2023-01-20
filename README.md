@@ -2,12 +2,12 @@
 
 ```c
 //method 1
-1. gcc main.c
-2. ./a.out
+- gcc main.c
+- ./a.out
 
 //method 2
-1. make main.c
-2. ./main
+- make main.c
+- ./main
 ```
 
 ## output
