@@ -2,7 +2,7 @@ a 3D spinning heart
 
 # setup
 
-```py
+```
 
 #method 1
 1. gcc main.c
