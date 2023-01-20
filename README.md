@@ -2,13 +2,16 @@ a 3D spinning heart
 
 # setup
 
-```gcc main.c```
-```./a.out```
+```py
 
-or
+#method 1
+1. gcc main.c
+2. ./a.out
 
-```make main.c```
-```./main```
+#method 2
+1. make main.c
+2. ./main
+```
 
 # output
 ![Screenshot](output.gif)
